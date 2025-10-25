@@ -1,0 +1,5 @@
+(version 1)
+
+(rule board_clearance2
+  (constraint edge_clearance (min 3mm))
+  (condition "A.Type == 'Zone' && A.Layer == 'In1.Cu'"))

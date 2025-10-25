@@ -1,0 +1,8 @@
+*auto_saved_files*
+.DS_Store
+*-backups/
+_autosave-*
+*.lck
+*.gbr
+*.drl
+*.gbrjob
