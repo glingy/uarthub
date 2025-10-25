@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "eb1861a7-3969-45ff-a1a1-242c44cbe085")
-	(paper "A4")
+	(paper "USLetter")
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
 			(pin_names
@@ -5098,6 +5098,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "A5"
@@ -5515,10 +5516,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5b445cc4-962f-4ae5-b506-ea7340624139")
 		(property "Reference" "R4"
-			(at 41.275 52.07 0)
+			(at 35.814 56.134 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5527,7 +5527,7 @@
 			)
 		)
 		(property "Value" "27.4Ω"
-			(at 41.275 54.61 0)
+			(at 37.338 56.134 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5776,10 +5776,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "76b52ad7-6bfb-4f4d-9885-e713a8b9d37d")
 		(property "Reference" "R5"
-			(at 47.625 52.07 0)
+			(at 42.164 56.134 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5788,7 +5787,7 @@
 			)
 		)
 		(property "Value" "5.11kΩ"
-			(at 47.625 54.61 0)
+			(at 43.688 56.134 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5949,10 +5948,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "85a59da3-f105-4781-99a7-bb3091ad27ff")
 		(property "Reference" "R6"
-			(at 53.975 52.07 0)
+			(at 48.514 56.134 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5961,7 +5959,7 @@
 			)
 		)
 		(property "Value" "5.11kΩ"
-			(at 53.975 54.61 0)
+			(at 50.038 56.134 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7402,10 +7400,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "eeb6662d-1d59-4d33-a302-df88c955e5af")
 		(property "Reference" "R3"
-			(at 34.925 52.07 0)
+			(at 29.464 56.134 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7414,7 +7411,7 @@
 			)
 		)
 		(property "Value" "27.4Ω"
-			(at 34.925 54.61 0)
+			(at 30.988 56.134 90)
 			(effects
 				(font
 					(size 1.27 1.27)
