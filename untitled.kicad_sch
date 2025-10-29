@@ -4872,7 +4872,7 @@
 		(at 24.13 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "03f18b4e-cd79-4340-b840-1d882f3503b9")
@@ -4912,6 +4912,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 24.13 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 24.13 137.16 0)
 			(effects
 				(font
@@ -5012,6 +5021,15 @@
 				)
 			)
 		)
+		(property "Digikey" "1276-1043-1-ND"
+			(at 67.945 36.195 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d976087-4ee8-4c9e-a9f7-bda9e5cdbef2")
 		)
@@ -5094,6 +5112,15 @@
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
 			(at 38.1 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "2223-UJ20-C-H-G-SMT-1-P16-TRCT-ND"
+			(at 38.1 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5388,6 +5415,15 @@
 				)
 			)
 		)
+		(property "Digikey" "1276-1043-1-ND"
+			(at 95.885 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb0c12cf-ed6e-47cb-b8de-790801d02356")
 		)
@@ -5526,7 +5562,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "27.4Ω"
+		(property "Value" "27Ω"
 			(at 37.338 56.134 90)
 			(effects
 				(font
@@ -5559,6 +5595,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "YAG5278CT-ND"
+			(at 39.37 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5647,6 +5692,15 @@
 				)
 			)
 		)
+		(property "Digikey" "1276-1043-1-ND"
+			(at 81.915 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4b9e30b-d7bb-496f-a47f-ee9b5abd5e77")
 		)
@@ -5731,6 +5785,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "399-C0402C105K9PACTUCT-ND"
+			(at 67.945 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5819,6 +5882,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "RMCF0402FT5K11CT-ND"
+			(at 45.72 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5993,6 +6065,15 @@
 				)
 			)
 		)
+		(property "Digikey" "RMCF0402FT5K11CT-ND"
+			(at 52.07 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "db2c479a-aacf-4b43-9996-24b3c09fe58b")
 		)
@@ -6077,6 +6158,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "1276-1043-1-ND"
+			(at 95.885 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6251,6 +6341,15 @@
 				)
 			)
 		)
+		(property "Digikey" "1276-1043-1-ND"
+			(at 81.915 50.165 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ad85dd56-b469-42a6-84d3-cb58970a7247")
 		)
@@ -6422,6 +6521,15 @@
 				)
 			)
 		)
+		(property "Digikey" "1276-1043-1-ND"
+			(at 95.885 36.195 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fca95a51-27c2-4aa2-bc04-8f3fb23c7344")
 		)
@@ -6509,6 +6617,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "2648-SC0914(13)CT-ND"
+			(at 66.04 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "22"
@@ -7015,6 +7132,15 @@
 				)
 			)
 		)
+		(property "Digikey" "1276-1043-1-ND"
+			(at 67.945 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7ce28f4f-d28a-4334-a892-db7988d62e6e")
 		)
@@ -7271,6 +7397,15 @@
 				)
 			)
 		)
+		(property "Digikey" "399-C0402C105K9PACTUCT-ND"
+			(at 95.885 50.165 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "142c871f-3f4d-43fc-8b67-9a7c3c5e9c82")
 		)
@@ -7357,6 +7492,15 @@
 				)
 			)
 		)
+		(property "Digikey" "1276-1043-1-ND"
+			(at 81.915 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6cc4224e-533d-4445-a619-4ce0b193b710")
 		)
@@ -7410,7 +7554,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "27.4Ω"
+		(property "Value" "27Ω"
 			(at 30.988 56.134 90)
 			(effects
 				(font
@@ -7443,6 +7587,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "YAG5278CT-ND"
+			(at 33.02 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7529,6 +7682,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Digikey" "1276-1043-1-ND"
+			(at 81.915 36.195 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
